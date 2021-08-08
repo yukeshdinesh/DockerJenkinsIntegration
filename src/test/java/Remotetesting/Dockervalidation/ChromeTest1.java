@@ -40,6 +40,7 @@ public class ChromeTest1 {
 		
 		driver.get("https://google.com");
 		System.out.println(driver.getTitle());
+		System.out.println("Chrome Test 1 passed");
 
 	}
 

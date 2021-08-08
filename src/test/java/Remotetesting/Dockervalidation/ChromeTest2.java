@@ -25,6 +25,7 @@ public class ChromeTest2 {
 		
 		driver.get("https://gmail.com");
 		System.out.println(driver.getTitle());
+		System.out.println("Firefox Test  passed");
 
 	}
 
