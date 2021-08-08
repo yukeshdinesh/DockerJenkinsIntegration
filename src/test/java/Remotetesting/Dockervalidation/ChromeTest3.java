@@ -24,7 +24,7 @@ public class ChromeTest3 {
 		
 		driver.get("https://yahoo.com");
 		System.out.println(driver.getTitle());
-		System.out.println("Chrome Test 2 passed checking web hooks");
+		System.out.println("Chrome Test 2 passed ");
 
 	}
 
